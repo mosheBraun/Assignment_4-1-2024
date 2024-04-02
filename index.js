@@ -18,4 +18,4 @@ for (let i = 0; i <= 6; i++) {
    
 }
 console.table(week)
-console.log(`Assignment_4-1-2024`)
+console.log(`Assignment_4-1-2024 "Successful"`)
